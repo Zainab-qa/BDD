@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="9" time="0.108386">
+    <testcase classname="Hub spot  application testing" name="Login with correct username and correct password" time="0.108048">
+        <system-out>
+            <![CDATA[Given This is a valid login test............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hub spot  application testing" name="Login with incorrect username and correct password" time="0.000041">
+        <system-out>
+            <![CDATA[Given This is a invalid login test..........................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hub spot  application testing" name="Create a deal" time="0.000036">
+        <system-out>
+            <![CDATA[Given This is deal test case................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hub spot  application testing" name="Create a Task" time="0.000043">
+        <system-out>
+            <![CDATA[Given This is task test case................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hub spot  application testing" name="Search a case" time="0.00004">
+        <system-out>
+            <![CDATA[Given This is a search case test............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hub spot  application testing" name="Search a task" time="0.000046">
+        <system-out>
+            <![CDATA[Given This a search task test...............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hub spot  application testing" name="Search a call" time="0.000039">
+        <system-out>
+            <![CDATA[Given This a call test case.................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hub spot  application testing" name="Search a email" time="0.000038">
+        <system-out>
+            <![CDATA[Given This a email test.....................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hub spot  application testing" name="validate a report" time="0.000055">
+        <system-out>
+            <![CDATA[Given This is a report test.................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
